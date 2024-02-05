@@ -1,3 +1,3 @@
 # IAMPM
 
-Nowy tekst do README
+Nowy tekst do README - ta zmiana bedzie naszym konfliktem
